@@ -1,5 +1,4 @@
 <h1>reactart-app :memo:</h1>
----
 
 <div align="center">
   <sub> Made by
